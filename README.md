@@ -132,15 +132,6 @@ We welcome:
 * Improvements to the sandboxing + evaluation layers
 
 See `CONTRIBUTING.md` for developer setup, agent spec guidelines, and patch submission protocols.
-
----
-
-## 📬 Contact & Community
-
-* GitHub Discussions: [github.com/your-username/aion/discussions](https://github.com/your-username/aion/discussions)
-* Email: [yourname@protonmail.com](mailto:yourname@protonmail.com)
-* Mastodon / Twitter: @aion\_engine
-
 ---
 
 ## 🧾 Attribution & Influence
