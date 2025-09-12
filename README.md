@@ -6,6 +6,11 @@ This project aims to push the boundaries of what software evolution means — no
 
 ---
 
+
+
+Disclaimer : Code available to recruiters/Collaborators on request
+
+
 ## 🧠 Conceptual Philosophy
 
 Modern interpreters remain mostly static — shaped by infrequent patches, driven by maintainers, and reactive to regressions. **Aion reimagines the interpreter as a living, co-evolving system** guided by:
